@@ -52,7 +52,7 @@
       - Два игрока в активной сессии
       - Оба начинают с одинакового кода
   test-data: |
-      Начальный код "def hello(): print('Hello')"
+      Начальный код "def hello() print('Hello')"
   steps:
       - Player1 вводит код
       - Player2 видит полный код
