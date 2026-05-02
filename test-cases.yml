@@ -473,13 +473,6 @@
       - Открыть DevTools (F12)
       - Включить Device Toolbar (Ctrl+Shift+M)
       - Проверить разные размеры экранов
-        * 320px (iPhone SE)
-        * 375px (iPhone X)
-        * 768px (iPad)
-        * 1024px (iPad Pro)
-        * 1440px (Desktop)
-        * 1920px (Large Desktop)
-        * 2560px (4K)
   expected-result: |
         Адаптивный дизайн работает, верстка не съезжает , все корректно отображается 
 
